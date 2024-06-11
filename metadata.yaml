@@ -1,0 +1,27 @@
+_repo: White-House-gossip-b-from-Andrew-Johnson-to-Calvin-Coolidge_73748
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colman, Edna M.
+    gutenberg_agent_id: '57210'
+    url: http://www.gutenberg.org/2009/agents/57210
+description: ''
+gutenberg_issued: '2024-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73748'
+language: en
+pgterms:marc904: https://archive.org/details/whitehousegossip0000colm_g2s4
+pgterms:marc905: 20221229072353colman
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Alan, The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bDoubleday, Page & Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'White House gossip : $b from Andrew Johnson to Calvin Coolidge'
+url: http://www.gutenberg.org/ebooks/73748
