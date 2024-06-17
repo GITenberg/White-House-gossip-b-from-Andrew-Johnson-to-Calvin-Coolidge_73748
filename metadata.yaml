@@ -1,11 +1,16 @@
 _repo: White-House-gossip-b-from-Andrew-Johnson-to-Calvin-Coolidge_73748
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73748-h/images/cover.jpg
 creator:
   author:
     agent_name: Colman, Edna M.
     gutenberg_agent_id: '57210'
     url: http://www.gutenberg.org/2009/agents/57210
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73748#White-House-gossip-b-from-Andrew-Johnson-to-Calvin-Coolidge
 gutenberg_issued: '2024-06-03'
 gutenberg_type: Text
 identifiers:
